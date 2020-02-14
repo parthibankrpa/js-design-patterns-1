@@ -6,27 +6,27 @@ This is the companion repository of the article on [JavaScript Design Patterns](
 
 ### Creational
 
-- [Constructor](https://github.com/drenther/js-design-patterns/blob/master/Creational/Constructor.js)
-- [Factory](https://github.com/drenther/js-design-patterns/blob/master/Creational/Factory.js)
-- [Prototype](https://github.com/drenther/js-design-patterns/blob/master/Creational/Prototype.js)
-- [Singleton](https://github.com/drenther/js-design-patterns/blob/master/Creational/Singleton.js)
+- [Constructor](https://github.com/parthibankrpa/js-design-patterns/blob/master/Creational/Constructor.js)
+- [Factory](https://github.com/parthibankrpa/js-design-patterns/blob/master/Creational/Factory.js)
+- [Prototype](https://github.com/parthibankrpa/js-design-patterns/blob/master/Creational/Prototype.js)
+- [Singleton](https://github.com/parthibankrpa/js-design-patterns/blob/master/Creational/Singleton.js)
 
 ### Structural
 
-- [Adapter](https://github.com/drenther/js-design-patterns/blob/master/Structural/Adapter.js)
-- [Composite](https://github.com/drenther/js-design-patterns/blob/master/Structural/Composite.js)
-- [Decorator](https://github.com/drenther/js-design-patterns/blob/master/Structural/Decorator.js)
-- [Facade](https://github.com/drenther/js-design-patterns/blob/master/Structural/Facade.js)
-- [Flyweight](https://github.com/drenther/js-design-patterns/blob/master/Structural/Flyweight.js)
-- [Proxy](https://github.com/drenther/js-design-patterns/blob/master/Structural/Proxy.js)
+- [Adapter](https://github.com/parthibankrpa/js-design-patterns/blob/master/Structural/Adapter.js)
+- [Composite](https://github.com/parthibankrpa/js-design-patterns/blob/master/Structural/Composite.js)
+- [Decorator](https://github.com/parthibankrpa/js-design-patterns/blob/master/Structural/Decorator.js)
+- [Facade](https://github.com/parthibankrpa/js-design-patterns/blob/master/Structural/Facade.js)
+- [Flyweight](https://github.com/parthibankrpa/js-design-patterns/blob/master/Structural/Flyweight.js)
+- [Proxy](https://github.com/parthibankrpa/js-design-patterns/blob/master/Structural/Proxy.js)
 
 ### Behavioral
 
-- [Chain of Responsibility](https://github.com/drenther/js-design-patterns/blob/master/Behavioral/ChainOfResponsibility.js)
-- [Command](https://github.com/drenther/js-design-patterns/blob/master/Behavioral/Command.js)
-- [Iterator](https://github.com/drenther/js-design-patterns/blob/master/Behavioral/Iterator.js)
-- [Mediator](https://github.com/drenther/js-design-patterns/blob/master/Behavioral/Mediator.js)
-- [Observer](https://github.com/drenther/js-design-patterns/blob/master/Behavioral/Observer.js)
-- [State](https://github.com/drenther/js-design-patterns/blob/master/Behavioral/State.js)
-- [Strategy](https://github.com/drenther/js-design-patterns/blob/master/Behavioral/Strategy.js)
-- [Template](https://github.com/drenther/js-design-patterns/blob/master/Behavioral/Template.js)
+- [Chain of Responsibility](https://github.com/parthibankrpa/js-design-patterns/blob/master/Behavioral/ChainOfResponsibility.js)
+- [Command](https://github.com/parthibankrpa/js-design-patterns/blob/master/Behavioral/Command.js)
+- [Iterator](https://github.com/parthibankrpa/js-design-patterns/blob/master/Behavioral/Iterator.js)
+- [Mediator](https://github.com/parthibankrpa/js-design-patterns/blob/master/Behavioral/Mediator.js)
+- [Observer](https://github.com/parthibankrpa/js-design-patterns/blob/master/Behavioral/Observer.js)
+- [State](https://github.com/parthibankrpa/js-design-patterns/blob/master/Behavioral/State.js)
+- [Strategy](https://github.com/parthibankrpa/js-design-patterns/blob/master/Behavioral/Strategy.js)
+- [Template](https://github.com/parthibankrpa/js-design-patterns/blob/master/Behavioral/Template.js)
